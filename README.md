@@ -16,4 +16,4 @@ https://jukaio.itch.io/the-quacken
 https://szadiart.itch.io/rpg-main-character
 
 Have fun! I know it's only two rooms, but adding more is more than possible in the future.
-Peace, Gibrano
+Peace, Gibrano.
