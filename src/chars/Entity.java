@@ -5,7 +5,7 @@ import java.awt.image.BufferedImage;
 
 public abstract class Entity {
     public int x, y;
-    public int speed; // better double type but i can't set it
+    public int speed;
     public int scale; // to increase the character size if needed
 
     public BufferedImage up1, up2, up3, up4, up5, up6, down1, down2, down3, down4, down5, down6, left1, left2, left3,
