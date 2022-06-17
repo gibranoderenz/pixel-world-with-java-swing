@@ -4,7 +4,7 @@ This is a showcase of what Java Swing can do.
 
 To move the player, press W (up), A (left), S (down), or D (right).
 
-When the player enters a room, there will be a message prompting the user of the action.
+When the player enters a room, there will be a message in the terminal prompting the user of the action.
 
 
 References I use to build this project:
