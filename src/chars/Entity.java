@@ -14,6 +14,5 @@ public abstract class Entity {
     public int spriteCounter;
     public int spriteNum = 1;
     public Rectangle solidArea; // for collision detection
-    public int solidAreaDefX, solidAreaDefY;
     public boolean collisionOn = false;
 }
