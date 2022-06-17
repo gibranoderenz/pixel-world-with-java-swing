@@ -13,7 +13,6 @@ public abstract class SuperObject {
     public boolean triggerChangeMap = false;
     public int x, y, width, height;
     public Rectangle solidArea = new Rectangle(); // for collision with entity
-    public String type;
 
     public void draw(Graphics2D g2, GamePanel gp) {
         g2.drawImage(image, x, y, width, height,
