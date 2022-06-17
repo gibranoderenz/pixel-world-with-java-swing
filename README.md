@@ -8,7 +8,8 @@ When the player enters a room, there will be a message in the terminal prompting
 
 
 References I use to build this project:
-https://www.youtube.com/watch?v=om59cwR7psI&list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq
+https://www.youtube.com/watch?v=om59cwR7psI&list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq (to learn about making the mechanics of a game and implementing it with Java Swing)
+https://stackoverflow.com/questions/1614772/how-to-change-jframe-icon (to set icon of the JFrame)
 
 Assets that I use are from:
 https://jukaio.itch.io/the-quacken
